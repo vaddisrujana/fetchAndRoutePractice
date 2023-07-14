@@ -1,0 +1,19 @@
+.image1 {
+  height: 20vh;
+}
+.avatar {
+  height: 5vh;
+}
+.background {
+  display: flex;
+  border-style: solid;
+  border-radius: 15px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.background2 {
+  display: flex;
+}
+.list {
+  list-style-type: none;
+}
